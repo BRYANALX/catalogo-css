@@ -68,5 +68,3 @@ i {
 - **bottom**: inferior
 - **right**: derecha
 - **left**: izquierda
-
-above
